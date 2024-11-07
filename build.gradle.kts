@@ -1,4 +1,3 @@
-import java.util.Properties
 import java.io.File
 
 plugins {
